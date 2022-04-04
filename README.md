@@ -1,5 +1,6 @@
 # Heroku .NET Core Buildpack
 
 ```
-heroku buildpacks:set https://github.com/ScarletKuro/dotnetcore-buildpackv2.1.git
+dotnet 6 buildpack for heroku
+heroku buildpacks:set https://github.com/zprmk/dotnetherokutest.git
 ```
